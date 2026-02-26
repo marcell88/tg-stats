@@ -1,6 +1,4 @@
 .env
 
-ecosystem.config.js
-
 venv/
 __pycache__/
